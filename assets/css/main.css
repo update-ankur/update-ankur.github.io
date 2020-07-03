@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/Users/lazycoder/Desktop/project_folder/assets/img/portrait.jpg");
+      background: url("../img/projects/portrait.jpg");
       border-radius: 60%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -103,7 +103,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url("/Users/lazycoder/Desktop/project_folder/assets/img/background.jpg");
+    background: url("../img/projects/background.jpg");
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -269,7 +269,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("/Users/lazycoder/Desktop/project_folder/assets/img/portrait.jpg");
+      background: url("../img/projects/portrait.jpg");
       width: 150px;
       height: 150px; }
   .about-info {
