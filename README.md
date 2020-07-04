@@ -25,7 +25,7 @@
 ![](../memes/m5.jpeg)
 ## Day 3
 - [x] Get acquainted with CSS
-    Resource Links :
+       Resource Links :
     - <a href="https://www.w3schools.com/css/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN web docs</a>
     - List of important topics to learn in CSS :

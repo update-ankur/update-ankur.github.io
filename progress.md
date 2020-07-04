@@ -77,7 +77,7 @@
     - [Youtube](www.youtube.com)
 
 
-## Day 5
+## Day 6
 
 - List of things learnt
     - adding JS to project.
@@ -92,3 +92,14 @@
     - [StackoverFlow](https://stackoverflow.com/)
     - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - [Youtube](www.youtube.com)
+
+
+
+## Day 7
+- List of things learnt
+    - Enabling GitHub page for my repository.
+    - Creating a Pull Request to the Repository of the Organisation from which i forked.
+
+- Useful resource found
+    - [Publishing source for github Pages](https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages)
+    - [StackoverFlow](https://stackoverflow.com/)
