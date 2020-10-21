@@ -1,22 +1,22 @@
 .menu-btn {
   position: absolute;
   z-index: 3;
-  right: 35px;
-  top: 35px;
+  right: 40px;
+  top: 45px;
   cursor: pointer;
   transition: all 0.5s ease-out; }
   .menu-btn .btn-line {
     width: 28px;
-    height: 3px;
-    margin: 0 0 5px 0;
+    height: 4px;
+    margin: 1 0 5px 1;
     background: #fff;
     transition: all 0.5s ease-out; }
   .menu-btn.close {
     transform: rotate(180deg); }
     .menu-btn.close .btn-line:nth-child(1) {
-      transform: rotate(45deg) translate(5px, 5px); }
+      transform: rotate(45deg) translate(6px, 5px); }
     .menu-btn.close .btn-line:nth-child(2) {
-      opacity: 0; }
+      opacity: 1; }
     .menu-btn.close .btn-line:nth-child(3) {
       transform: rotate(-45deg) translate(7px, -6px); }
 
@@ -68,7 +68,7 @@
   .menu .nav-link {
     display: inline-block;
     position: relative;
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     padding: 1rem 0;
     font-weight: 300;
@@ -130,7 +130,7 @@ h3 {
   h3.sm-heading {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(73, 73, 73, 0.5); }
+    background: rgba(75, 75, 75, 0.5); }
 
 a {
   color: #fff;
